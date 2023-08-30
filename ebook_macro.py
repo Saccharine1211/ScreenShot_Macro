@@ -4,8 +4,8 @@ import keyboard
 from PIL import ImageGrab
 import os
 
-total_page = 353
-target_name = 'UX_UI_디자이너를_위한_실무_피그마'
+total_page = 0
+target_name = 'target_name'
 left_top = ()
 right_bottom = ()
 
